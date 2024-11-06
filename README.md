@@ -1,5 +1,5 @@
 # function-patch-and-transform
-[![CI](https://github.com/crossplane-contrib/function-patch-and-transform/actions/workflows/ci.yml/badge.svg)](https://github.com/crossplane-contrib/function-patch-and-transform/actions/workflows/ci.yml) ![GitHub release (latest SemVer)](https://img.shields.io/github/release/crossplane-contrib/function-patch-and-transform)
+[![CI](https://github.com/fernandezcuesta/function-patch-and-transform/actions/workflows/ci.yml/badge.svg)](https://github.com/fernandezcuesta/function-patch-and-transform/actions/workflows/ci.yml) ![GitHub release (latest SemVer)](https://img.shields.io/github/release/fernandezcuesta/function-patch-and-transform)
 
 This [composition function][docs-functions] does everything Crossplane's
 built-in [patch & transform][docs-pandt] (P&T) composition does. Instead of
@@ -192,7 +192,7 @@ $ crossplane xpkg build -f package --embed-runtime-image=runtime
 [docs-composition]: https://docs.crossplane.io/v1.14/getting-started/provider-aws-part-2/#create-a-deployment-template
 [docs-functions]: https://docs.crossplane.io/v1.14/concepts/composition-functions/
 [docs-pandt]: https://docs.crossplane.io/v1.14/concepts/patch-and-transform/
-[fn-go-templating]: https://github.com/crossplane-contrib/function-go-templating
+[fn-go-templating]: https://github.com/fernandezcuesta/function-go-templating
 [#4617]: https://github.com/crossplane/crossplane/issues/4617
 [#4746]: https://github.com/crossplane/crossplane/issues/4746
 [go]: https://go.dev
