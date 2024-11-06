@@ -8,8 +8,8 @@ import (
 	"github.com/crossplane/crossplane-runtime/pkg/fieldpath"
 	"github.com/crossplane/crossplane-runtime/pkg/resource"
 
-	"github.com/crossplane-contrib/function-patch-and-transform/input/v1beta1"
-	"github.com/crossplane-contrib/function-patch-and-transform/pt"
+	"github.com/fernandezcuesta/function-patch-and-transform/input/v1beta1"
+	"github.com/fernandezcuesta/function-patch-and-transform/pt"
 )
 
 // Error strings

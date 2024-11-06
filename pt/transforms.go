@@ -19,7 +19,7 @@ import (
 
 	"github.com/crossplane/crossplane-runtime/pkg/errors"
 
-	"github.com/crossplane-contrib/function-patch-and-transform/input/v1beta1"
+	"github.com/fernandezcuesta/function-patch-and-transform/input/v1beta1"
 )
 
 const (

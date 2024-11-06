@@ -20,8 +20,8 @@ import (
 	"github.com/crossplane/function-sdk-go/resource/composed"
 	"github.com/crossplane/function-sdk-go/response"
 
-	"github.com/crossplane-contrib/function-patch-and-transform/input/v1beta1"
-	"github.com/crossplane-contrib/function-patch-and-transform/pt"
+	"github.com/fernandezcuesta/function-patch-and-transform/input/v1beta1"
+	"github.com/fernandezcuesta/function-patch-and-transform/pt"
 )
 
 // Function performs patch-and-transform style Composition.
